@@ -1,0 +1,11 @@
+Type this code to insert a button in your HTML document-
+
+<html>
+<head>
+<title>Example site<\title>
+<input type="button">
+<\head>
+<\html>
+
+This is the simple way of inserting a button in your website.
+Insert the button by writing this code.
